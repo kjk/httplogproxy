@@ -1,3 +1,5 @@
 module github.com/kjk/httplogproxy
 
-require github.com/elazarl/goproxy v0.0.0-20181111060418-2ce16c963a8a
+go 1.21.1
+
+require github.com/elazarl/goproxy v0.0.0-20230808193330-2592e75ae04a
